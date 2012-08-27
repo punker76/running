@@ -11,7 +11,7 @@
       <name>Laufen</name>
       <Style>
         <LineStyle>
-          <color>ffff0000</color>
+          <color>ff00ccff</color>
           <width>5</width>
         </LineStyle>
       </Style>
